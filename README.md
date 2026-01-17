@@ -1,7 +1,8 @@
 
 <div id="header" align="center">
- <img src="https://file.garden/ZfxdXmIg9weivlYT/ddd.png" width="500"/>
+ <img src="https://file.garden/ZfxdXmIg9weivlYT/ddd.png" width="300"/>
  
+ im learning italian
 
  I really like Feliciano Vargas hes actually me i spent over 100$ on him
  
