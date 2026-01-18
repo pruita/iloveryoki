@@ -15,7 +15,6 @@ $\textsf{{\color[rgb]{1, 0.19, 0.19}Ita}{\color[rgb]{0.95, 1, 0.74}li}{\color[rg
 
  $\color{#E4D677}{\textsf{i do plan on buying more stuff (specifically hetamyu) for this...i like italy}}$
 
- $\color{#E4D677}{\textsf{im a nonsharing england and regis altare yume ;-;}}$
   $\color{#7B78E3}{\textsf{i really like Ryoki Nagae ok?}}$
  
  <img src="https://file.garden/ZfxdXmIg9weivlYT/cute%20baby%20aw" width="145"/>  <img src="https://file.garden/ZfxdXmIg9weivlYT/asass" width="170"/>  
