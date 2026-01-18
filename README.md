@@ -1,6 +1,7 @@
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=pruita&color=orange)
+
 
 <div id="header" align="center">
+
  <img src="https://file.garden/ZfxdXmIg9weivlYT/ddd.png" width="300"/>
  
  im learning italian
@@ -19,5 +20,5 @@ i do plan on buying more stuff (specifically hetamyu) for this...i like italy
  
  look at my cute kamioshi! Hes so cute! i love this guy!
 
- 
+  ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=pruita&color=orange)
 </div>
