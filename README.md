@@ -1,11 +1,11 @@
 
 
-<div id="header" align="left">
+<div id="header" align="center">
 
  <img src="https://file.garden/ZfxdXmIg9weivlYT/ddd.png" width="300"/>
  
- $\color{#E4D677}{\textsf{ im learning italian}}$	
-
+$\color{#E4D677}{\textsf{ im learning}}$	
+$\textsf{{\color[rgb]{1, 0.19, 0.19}Ita}{\color[rgb]{0.95, 1, 0.74}li}{\color[rgb]{0.49, 1, 0}an}}$
 
  $\color{#E4D677}{\textsf{I really like Feliciano Vargas hes actually me i spent over 100 dollars on him}}$
  
@@ -17,7 +17,7 @@
 
   $\color{#7B78E3}{\textsf{i really like Ryoki Nagae ok?}}$
  
- <img src="https://file.garden/ZfxdXmIg9weivlYT/cute%20baby%20aw" width="140"/>  <img src="https://file.garden/ZfxdXmIg9weivlYT/asass" width="170"/>  
+ <img src="https://file.garden/ZfxdXmIg9weivlYT/cute%20baby%20aw" width="145"/>  <img src="https://file.garden/ZfxdXmIg9weivlYT/asass" width="170"/>  
  
   $\color{#7B78E3}{\textsf{ look at my cute kamioshi! Hes so cute! i love this guy!}}$ 
  
