@@ -16,7 +16,7 @@ i do plan on buying more stuff (specifically hetamyu) for this...i like italy
 
  i really like Ryoki Nagae ok?
  
- <img src="https://file.garden/ZfxdXmIg9weivlYT/cute%20baby%20aw" width="140"/>  <img src="https://file.garden/ZfxdXmIg9weivlYT/asass" width="140"/>  
+ <img src="https://file.garden/ZfxdXmIg9weivlYT/cute%20baby%20aw" width="140"/>  <img src="https://file.garden/ZfxdXmIg9weivlYT/asass" width="170"/>  
  
  look at my cute kamioshi! Hes so cute! i love this guy! 
  
