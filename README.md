@@ -8,6 +8,8 @@ $\color{#E4D677}{\textsf{ im learning}}$
 $\textsf{{\color[rgb]{1, 0.19, 0.19}Ita}{\color[rgb]{0.95, 1, 0.74}li}{\color[rgb]{0.49, 1, 0}an}}$
 
  $\color{#E4D677}{\textsf{I really like Feliciano Vargas hes actually me i spent over 100 dollars on him}}$
+
+$\color{#E4D677}{\textsf{ im also a feliciano vargas introject}}$
  
   $\color{#E4D677}{\textsf{heres how the shrine looks currently}}$
  
