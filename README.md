@@ -1,21 +1,21 @@
+ $\color{#0d1117}{\texttt{meoemoewmeowmeoww}}$ $\color{#E4D677}{\textsf{"how many githubs do u havw"}}$
+ 
 
+  $\color{#0d1117}{\texttt{ this is 2 be viewed on darkmode ok}}$  $\color{#E4D677}{\texttt{dont even worry abt that dude}}$
 
 <div id="header" align="center">
-
- <img src="https://file.garden/ZfxdXmIg9weivlYT/ddd.png" width="300"/>
+ 
+ 
+ <img src="https://file.garden/ZfxdXmIg9weivlYT/we.png" width="530"/>
  
 $\color{#E4D677}{\textsf{ im learning}}$	
 $\textsf{{\color[rgb]{1, 0.19, 0.19}Ita}{\color[rgb]{0.95, 1, 0.74}li}{\color[rgb]{0.49, 1, 0}an}}$
 
- $\color{#E4D677}{\textsf{I really like Feliciano Vargas hes actually me i spent over 100 dollars on him}}$
-
-$\color{#E4D677}{\textsf{ im also a feliciano vargas introject}}$
+ $\color{#E4D677}{\textsf{I really like Feliciano. hes actually me i spent over 100 dollars on him}}$
  
   $\color{#E4D677}{\textsf{heres how the shrine looks currently}}$
  
 <img src="https://file.garden/ZfxdXmIg9weivlYT/eee.png" width="350"/>
-
- $\color{#E4D677}{\textsf{i do plan on buying more stuff (specifically hetamyu) for this...i like italy}}$
 
   $\color{#7B78E3}{\textsf{i really like Ryoki Nagae ok?}}$
  
