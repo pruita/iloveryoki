@@ -6,7 +6,7 @@
 <div id="header" align="center">
  
  
- <img src="https://file.garden/ZfxdXmIg9weivlYT/we.png" width="530"/>
+ <img src="https://file.garden/ZfxdXmIg9weivlYT/Geritas/image.png" width="530"/>
  
 $\color{#E4D677}{\textsf{ im learning}}$	
 $\textsf{{\color[rgb]{1, 0.19, 0.19}Ita}{\color[rgb]{0.95, 1, 0.74}li}{\color[rgb]{0.49, 1, 0}an}}$
